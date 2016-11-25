@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.wrap{width:1000px;position:relative;margin:auto}
+.header{width:100%;height:100px}
+
+.header p{font-size:30px;text-align:center;font-family: 'Nanum Gothic', sans-serif;}
+
+.main_img{width:800px;margin:auto}
+
+#login_menu{font-size:17px;text-align:center;font-family: 'Nanum Gothic', sans-serif;}
+h2{color:red}
